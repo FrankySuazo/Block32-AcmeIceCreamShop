@@ -1,7 +1,7 @@
 # Block32-AcmeIceCreamShop
-##Overview
+## Overview
 In this workshop you will be building an API which will allow the Acme Ice Cream Shop to manage it's flavors.
-##Directions
+## Directions
 The goal of this workshop is to successfully create the following routes:
 
 GET /api/flavors - returns array of flavors
