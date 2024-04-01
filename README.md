@@ -21,6 +21,7 @@ Flavor
 
   updated_at (TIMESTAMP)
 
+
   1.Create the flavors table. Consider the different columns you'll need to add as well as the most appropriate data types. Don't forget to add code to DROP tables before recreating them. 
   
   2.Seed the table with some flavors of your choosing. 
